@@ -171,3 +171,8 @@ Citizen.CreateThread(function()
 		end
 	end
 end)
+
+
+
+
+print ('^6(Crée par ^4Noa ^6& ^2Kadomish^6)') print ('^6https://discord.gg/QsyvdNwEzp%27')
