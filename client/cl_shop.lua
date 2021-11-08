@@ -9,7 +9,7 @@ end)
 
 
 local nkshop = {
-	Base = { Header = {"commonmenu", "interaction_bgd"}, Color = {color_black}, HeaderColor = {255, 255, 255}, Title = "Supérette"},
+	Base = { Header = {"shopui_title_conveniencestore", "shopui_title_conveniencestore"}, Title = "Supérette"},
 	Data = { currentMenu = "Supérette", "" },
 	Events = {
 		onSelected = function(self, _, btn, PMenu, menuData, currentButton, currentBtn, currentSlt, result, slide)
